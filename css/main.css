@@ -94,7 +94,7 @@ a {
 .main-section {
   height: auto;
   padding-bottom: 10%;
-  background-image: url('images/background.png');
+  background-image: url('https://cdn.staticcrate.com/stock-hd/effects/footagecrate-4k-looping-tech-background-clean-white-1-prev-full.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -135,7 +135,7 @@ a {
 
 .midder_section {
   padding-bottom: 7%;
-  background-image: url('images/program-bg.png');
+  background-image: url('https://www.brookings.edu/wp-content/uploads/2020/03/12572a-6.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: auto;
@@ -273,6 +273,7 @@ a {
 
 .about_span {
   color: #f44336;
+  font-weight: bold;
 }
 
 .about_paragraph_second {
