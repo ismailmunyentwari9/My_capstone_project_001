@@ -220,6 +220,14 @@ a {
   font-style: italic;
 }
 
+.hiden span {
+  font-style: italic;
+}
+
+.hiden p span {
+  font-size: 13px;
+}
+
 .speakers_cards p span {
   font-size: 13px;
 }
