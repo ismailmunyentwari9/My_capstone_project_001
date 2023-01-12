@@ -1,7 +1,7 @@
 /* menu dropdown codes....... */
 const openHambuger = document.querySelector('.hambuger img');
 const menu = document.querySelector('.hide-menu');
-const closeButton = document.querySelector('.closeButton');
+const closeButton = document.querySelector('.close_button');
 /* open button */
 openHambuger.addEventListener('click', () => {
   menu.style.display = 'block';
