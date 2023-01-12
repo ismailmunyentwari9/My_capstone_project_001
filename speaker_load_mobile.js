@@ -48,10 +48,12 @@ const contents = `
     </div>
 
     <!--Hiden speakers section in Mobile version-->
+
+</div>
     <div class="row">
         <div class="col-1"></div>
-        <div class="col-11" id="click_more">
-            <p class="more_button">click for More </p>
+        <div class="col-10" id="click_more">
+            <span class="more_button">See  More </span>
         </div>
     </div>
     <!--Hiden speakers section in Mobile version-->
@@ -140,9 +142,9 @@ const contents = `
         <!--Hiden speakers section in Mobile version-->
 
         <div class="row">
-
-            <div class="col-8" id="click_less">
-                <p class="more_button">click for less </p>
+             <div class="col-1"></div>
+            <div class="col-10" id="click_less">
+                <span class="more_button">see less </span>
             </div>
         </div>`;
 speakerSection.innerHTML += contents;
