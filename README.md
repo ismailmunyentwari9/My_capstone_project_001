@@ -40,7 +40,7 @@ Client<br>
 **.CSS**
 ## 🚀 LIVE DEMO  <a name="live-demo"></a>
 To get deployed version of my Capstone project<br>
-visit <a href="https://github.com/ismailmunyentwari9/My_capstone_project_001">Capstone project:001</a>
+visit <a href="https://ismailmunyentwari9.github.io/My_capstone_project_001/">Capstone project:001</a>
 
 ## 🚨 LOOM VIDEO  <a name="loom-video"></a>
 If you want to watch full Presantation of my project through video<br>
